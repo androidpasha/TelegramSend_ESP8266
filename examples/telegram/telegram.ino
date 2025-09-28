@@ -6,10 +6,10 @@
 #include <TelegramSend.h>
 #include <Ticker.h>
 
-const char *ssid = "GVV";        // SSID WiFi network
-const char *pass = "0985080100"; // Password  WiFi network
-const char *botToken = "1897971493:AAGpIQy5WUlBXfdANURukWPJBgL2QcXvFjE";
-int64_t userid = 426464015;
+const char *ssid = "You SSID";        // SSID WiFi network
+const char *pass = "You wifi password"; // Password  WiFi network
+const char *botToken = "You  telegram bot token";
+int64_t userid = 123456789; //https://api.telegram.org/botYOUBOTTOKEN/getUpdates
 
 TelegramSend Telegram;
 Ticker ticker;
