@@ -1,0 +1,16 @@
+{
+    "name": "TelegramSend",
+    "version": "1.0.0",
+    "keywords": "telegram, esp8266",
+    "description": "Library for sending Telegram messages from ESP8266",
+    "authors": [
+        {
+            "name": "Pavel Avramenko",
+            "email": "androidpasha@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/androidpasha/TelegramSend",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": ["espressif8266"]
+}
